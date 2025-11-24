@@ -1,25 +1,14 @@
 # VITYARTHI_PROJECT_TO-DO
-
-# 🌟 vityarthi: A Simple To-Do List Application
-
-## 💡 Overview of the Project
+ vityarthi: A Simple To-Do List Application
+# Overview of the Project
 This project, **vityarthi**, is a **command-line interface (CLI) To-Do List application** built using Python. It allows users to manage their daily tasks by providing a simple, interactive menu to add, view, and remove tasks from a list. The data is stored in memory for the duration of the program's execution.
-
----
-
-## ✨ Features
+#Features
 * **Add Task:** Easily input and save a new task to the list.
 * **View Tasks:** Display all current tasks in a numbered list.
 * **Remove Task:** Select a task by its number to remove it from the list.
 * **Simple Menu:** An intuitive menu system for easy navigation and interaction.
-
----
-
-## 🛠️ Technologies/Tools Used
+## Technologies/Tools Used
 * **Language:** **Python 3** (The project is a single Python script).
-
----
-
 ## ⬇️ Steps to Install & Run the Project
 
 Since this is a simple Python script, no special installation is required beyond having a working Python environment.
@@ -41,7 +30,7 @@ You must have **Python 3** installed on your system.
 
 ---
 
-## 🧪 Instructions for Testing
+## Instructions for Testing
 Follow these steps to test the core functionalities of the To-Do List application:
 
 1.  **Start the Program:** Run the script (`python todo_list.py`).
